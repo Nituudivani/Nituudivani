@@ -49,15 +49,15 @@ Feel free to reach out to me if you have any questions or collaboration ideas:
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitindivani2711@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nituu_divani_official/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nituu-divani-62968931b/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://twitter.com/Priyank_303)
+[![Twitter](https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nituu.divani.1)
 <br>
 <br>
 
 ## 📊GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=PriyanK1133&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PriyanK1133&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanK1133&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Nituudivani&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nituudivani&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nituudivani&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br/><br/>
-![](https://komarev.com/ghpvc/?username=PriyanK1133)
+![](https://komarev.com/ghpvc/?username=Nituudivani)
 <hr/>
 Let's create something amazing together😊!
